@@ -1,5 +1,5 @@
 <?php
-	$DB_SERVER = '108.167.140.23';
+	$DB_SERVER = 'localhost';
 	$DB_USERNAME = 'nicolas_CeroBuks';
 	$DB_PASSWORD = '5LO$3c_73=]B';
 	$DB_DATABASE = 'nicolas_CeroBuks';
